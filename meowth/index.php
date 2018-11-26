@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-Welcome
+Welcome to the Alfred Discord Bot.
 </body>
 </html>
